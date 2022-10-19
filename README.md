@@ -7,3 +7,5 @@
 Используются файлы:
 - Src/easy/Win/easy_1.1.exe
 - Src/easy/Win/easy_2.1.exe
+
+Запустить лабораторную работу можно через __LAB.bat__
